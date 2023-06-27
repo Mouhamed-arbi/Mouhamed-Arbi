@@ -16,8 +16,8 @@ Hi there 👋 I am Mouhamed Arbi Moussi a Full-Stack JavaScript Developer i love
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouhamed-arbi-moussi-8944bb24b/)](https://www.linkedin.com/in/mouhamed-arbi-moussi-8944bb24b/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@mouhamedarbimoussi)](https://medium.com/@mouhamedarbimoussi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mouhamedarbimoussi@gmail.com)](mailto:mouhamedarbimoussi@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/Facebook.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/medarbi.moussi)](https://www.facebook.com/medarbi.moussi)
-[![Instagram Badge](https://img.shields.io/badge/Instagram.alam.anik.2-1877F2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Medarbi_ms/?fbclid=IwAR1rz17Y_ufvKWmGVGJW-g-sdNmLwZhFFgHvx0almSVnYCIzZ0WePJJ7EKg)](https://www.instagram.com/Medarbi_ms/?fbclid=IwAR1rz17Y_ufvKWmGVGJW-g-sdNmLwZhFFgHvx0almSVnYCIzZ0WePJJ7EKg)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/medarbi.moussi)](https://www.facebook.com/medarbi.moussi)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-1877F2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Medarbi_ms/?fbclid=IwAR1rz17Y_ufvKWmGVGJW-g-sdNmLwZhFFgHvx0almSVnYCIzZ0WePJJ7EKg)](https://www.instagram.com/Medarbi_ms/?fbclid=IwAR1rz17Y_ufvKWmGVGJW-g-sdNmLwZhFFgHvx0almSVnYCIzZ0WePJJ7EKg)
 
 
 ⚡ Technologies :
