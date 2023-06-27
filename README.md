@@ -1,8 +1,8 @@
-##Hi there 👋 
+### Hi there 👋 
 I am Mouhamed Arbi Moussi a Full-Stack JavaScript Developer i love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
-##
 📫 How to reach me: mouhamedarbimoussi@gmail.com
 
+##
 
 💫 About Me:
 🔭 I’m currently working on some amazing things !
@@ -10,6 +10,7 @@ I am Mouhamed Arbi Moussi a Full-Stack JavaScript Developer i love writing clean
 💬 Ask me about everything related to code
 📝 I write articles on https://medium.com/@mouhamedarbimoussi
 
+##
 
 🌐 Socials:
 
@@ -20,6 +21,7 @@ I am Mouhamed Arbi Moussi a Full-Stack JavaScript Developer i love writing clean
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/medarbi.moussi)](https://www.facebook.com/medarbi.moussi)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-1877F2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Medarbi_ms/?fbclid=IwAR1rz17Y_ufvKWmGVGJW-g-sdNmLwZhFFgHvx0almSVnYCIzZ0WePJJ7EKg)](https://www.instagram.com/Medarbi_ms/?fbclid=IwAR1rz17Y_ufvKWmGVGJW-g-sdNmLwZhFFgHvx0almSVnYCIzZ0WePJJ7EKg)
 
+##
 
 💻 Tech Stack :
 
@@ -64,6 +66,7 @@ I am Mouhamed Arbi Moussi a Full-Stack JavaScript Developer i love writing clean
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
+##
 
 
 📊 GitHub Stats:
