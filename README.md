@@ -83,5 +83,13 @@ Find out more about me & feel free to connect with me here:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mouhamed-arbi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouhamed-arbi&hide=TeX&layout=compact)
 
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mouhamed-Arbi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
 
