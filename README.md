@@ -1,9 +1,19 @@
-### Hi there 👋
+Hi there 👋 I am Mouhamed Arbi Moussi a Full-Stack JavaScript Developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+📫 How to reach me: mouhamedarbimoussi@gmail.com
 
-<!--
-**Mouhamed-arbi/Mouhamed-Arbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+🔭 I’m currently working on some amazing things !
+👯 I’m looking to collaborate on any mobile app project
+💬 Ask me about everything related to code
+📝 I write articles on https://medium.com/@mouhamedarbimoussi
 
-Here are some ideas to get you started:
+🌐 Socials:
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
+[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-mouhamedarbimoussi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mouhamedarbimoussi@gmail.com)](mailto:mouhamedarbimoussi@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
