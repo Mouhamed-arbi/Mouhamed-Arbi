@@ -18,7 +18,7 @@ I am Mouhamed Arbi Moussi a Full-Stack JavaScript Developer i love writing clean
 
 ##
 
-🌐 Socials:
+## 🌐 Socials:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouhamed-arbi-moussi-8944bb24b/)](https://www.linkedin.com/in/mouhamed-arbi-moussi-8944bb24b/)
